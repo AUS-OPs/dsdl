@@ -1,0 +1,20 @@
+#
+# Optic flow raw data
+#
+
+uavcan.Timestamp timestamp
+
+#
+# flow x
+#
+int16 flow_x
+
+#
+# flow y
+#
+int16 flow_y
+
+#
+# quality
+#
+uint8 qaulity
