@@ -5,14 +5,14 @@
 uavcan.Timestamp timestamp
 
 #
-# flow x
+# raw flow x
 #
-int16 flow_x
+int16 raw_flow_x
 
 #
 # flow y
 #
-int16 flow_y
+int16 raw_flow_y
 
 #
 # quality
